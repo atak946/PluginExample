@@ -1,0 +1,1 @@
+https://github.com/natemcmaster/DotNetCorePlugins/blob/main/samples/hello-world/HostApp/Program.cs
